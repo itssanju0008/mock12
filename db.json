@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "company": "CardByte",
+      "postedAt": "2023-02-27",
+      "city": "New Delhi",
+      "location": "New Delhi",
+      "role": "frontend",
+      "level": "junior",
+      "contract": "full Time",
+      "position": "junior Frontend Developer",
+      "language": "javascript",
+      "id": 1
+    },
+    {
+      "company": "Idesign",
+      "postedAt": "2023-02-22",
+      "city": "New Delhi",
+      "location": "Sultanpur",
+      "role": "frontend",
+      "level": "junior",
+      "contract": "full Time",
+      "position": "junior Frontend Developer",
+      "language": "javascript",
+      "id": 2
+    },
+    {
+      "company": "Amazon",
+      "postedAt": "2023-02-22",
+      "city": "Delhi NCR",
+      "location": "GuruGaon",
+      "role": "fullStack",
+      "level": "junior",
+      "contract": "part Time",
+      "position": "fsd",
+      "language": "javascript",
+      "id": 3
+    }
+  ]
+}
